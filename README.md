@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
