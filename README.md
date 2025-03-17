@@ -37,9 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
