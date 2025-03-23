@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0012-integer-to-roman) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
