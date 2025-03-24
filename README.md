@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1278-product-price-at-a-given-date) |
 | [1390-average-selling-price](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1415-students-and-examinations) |
