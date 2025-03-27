@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
+| [2383-add-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
