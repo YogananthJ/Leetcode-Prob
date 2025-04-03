@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
