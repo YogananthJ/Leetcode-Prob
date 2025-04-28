@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
