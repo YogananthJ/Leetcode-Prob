@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
