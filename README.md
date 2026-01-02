@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0485-max-consecutive-ones) |
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
@@ -133,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
