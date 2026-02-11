@@ -6,9 +6,8 @@ class Solution {
             char b=address.charAt(i);
             if(b=='.')
             {
-                s=s+'[';
-                s+=b;
-                s+=']';
+                s+="[.]";
+                
                 
             }
             else
