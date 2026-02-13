@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1678-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3110-score-of-a-string) |
