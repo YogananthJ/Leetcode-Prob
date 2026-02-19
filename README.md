@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0696-count-binary-substrings) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
