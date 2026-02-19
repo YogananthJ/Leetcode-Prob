@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0693-binary-number-with-alternating-bits) |
 ## Linked List
 |  |
 | ------- |
