@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0696-count-binary-substrings) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3794-reverse-string-prefix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1678-goal-parser-interpretation) |
