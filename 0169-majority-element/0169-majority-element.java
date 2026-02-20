@@ -1,7 +1,7 @@
-import java.util.Arrays ;
 class Solution {
     public int majorityElement(int[] nums) {
         Arrays.sort(nums);
-        return nums[nums.length/2];
+        int n=nums.length/2;
+        return nums[n];
     }
 }
