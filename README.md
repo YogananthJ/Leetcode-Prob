@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1678-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2000-reverse-prefix-of-word) |
+| [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3467-transform-array-by-parity) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
