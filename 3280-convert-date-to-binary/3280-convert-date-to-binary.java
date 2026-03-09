@@ -1,10 +1,13 @@
 class Solution {
     public String convertDateToBinary(String date) {
         String[] p = date.split("-");
-        int y = Integer.parseInt(p[0]);
-        int m = Integer.parseInt(p[1]);
-        int d = Integer.parseInt(p[2]);
-        String r = Integer.toBinaryString(y)+'-'+Integer.toBinaryString(m)+'-'+Integer.toBinaryString(d);
+        String r ="";
+        for(int i=0;i<p.length;i++){
+            int a = Integer.parseInt(p[i]);
+            r+=Integer.toBinaryString(a);
+            if(i==p.length-1) continue;
+            r+='-';
+        }
         return r;
     }
 }
