@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Linked List
 |  |
