@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
