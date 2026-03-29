@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 ## Stack
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
 | ------- |
