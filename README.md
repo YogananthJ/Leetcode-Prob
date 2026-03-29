@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3280-convert-date-to-binary) |
