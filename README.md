@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
