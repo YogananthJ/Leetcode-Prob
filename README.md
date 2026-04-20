@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 ## Stack
