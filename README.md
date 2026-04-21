@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1652-defuse-the-bomb) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
