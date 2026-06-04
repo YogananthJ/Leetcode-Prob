@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
 | [1390-four-divisors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0696-count-binary-substrings) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
