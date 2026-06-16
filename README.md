@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1630-count-odd-numbers-in-an-interval-range) |
