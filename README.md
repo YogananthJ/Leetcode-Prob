@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2278-percentage-of-letter-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
