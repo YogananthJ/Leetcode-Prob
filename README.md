@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
+| [0984-string-without-aaa-or-bbb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0984-string-without-aaa-or-bbb) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
