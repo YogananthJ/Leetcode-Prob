@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1009-complement-of-base-10-integer) |
