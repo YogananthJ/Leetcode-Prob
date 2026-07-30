@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3227-vowels-game-in-a-string) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3074-apple-redistribution-into-boxes) |
 ## Stack
 |  |
