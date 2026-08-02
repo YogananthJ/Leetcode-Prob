@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1331-rank-transform-of-an-array) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
