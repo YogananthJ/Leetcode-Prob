@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
