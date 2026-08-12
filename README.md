@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2383-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2485-find-the-pivot-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
