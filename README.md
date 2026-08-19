@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
