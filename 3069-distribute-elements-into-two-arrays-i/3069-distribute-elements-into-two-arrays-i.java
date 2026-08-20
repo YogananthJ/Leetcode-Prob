@@ -18,7 +18,6 @@ class Solution {
             }
         }
         
-        // Concatenate arr1 and arr2
         int[] result = new int[arr1.size() + arr2.size()];
         int index = 0;
         
