@@ -1,6 +1,6 @@
 class Solution {
     public double trimMean(int[] arr) {
-        int a = (int) (arr.length * 0.05);
+        int a = arr.length/20;
         int b = (arr.length - a) - 1;
 
         Arrays.sort(arr);
