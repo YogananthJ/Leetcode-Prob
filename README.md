@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3978-unique-middle-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3978-unique-middle-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3978-unique-middle-element) |
 ## Union Find
 |  |
 | ------- |
