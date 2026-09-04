@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
