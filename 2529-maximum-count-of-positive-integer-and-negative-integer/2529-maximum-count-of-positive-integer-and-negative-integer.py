@@ -1,0 +1,11 @@
+from typing import List
+class Solution:
+    def maximumCount(self, nums: List[int]) -> int:
+        a=0
+        b=0
+        for i in nums:
+            if(i<0):
+                a=a+1
+            elif(i>0):
+                b+=1
+        return max(a,b)
