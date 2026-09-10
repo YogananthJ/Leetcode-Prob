@@ -5,13 +5,13 @@
 var maximumCount = function(nums) {
     let a=0;
     let b=0;
-for(let i=0;i<nums.length;i++){
-        if(nums[i]<0){
+    nums.forEach(num=>{
+        if(num<0){
             a++;
         }
-        else if(nums[i]>0){
+        else if(num>0){
             b++;
         }
-    }
+    });
     return Math.max(a,b);
 };
