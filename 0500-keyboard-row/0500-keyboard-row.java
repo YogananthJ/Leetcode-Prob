@@ -7,61 +7,43 @@ class Solution {
         List<String> list = new ArrayList<>();
 
         for (int i = 0; i < words.length; i++) {
-            String s = String.valueOf(Character.toLowerCase(words[i].charAt(0)));
+            String s = "";
 
-            if (l1.contains(s)) {
+            for (int j = 0; j < words[i].length(); j++) {
+                String ch = String.valueOf(
+                        Character.toLowerCase(words[i].charAt(j)));
 
-                boolean valid = true;
-
-                for (int j = 0; j < words[i].length(); j++) {
-                    String ch = String.valueOf(Character.toLowerCase(words[i].charAt(j)));
-
-                    if (!l1.contains(ch)) {
-                        valid = false;
-                        break;
-                    }
-                }
-
-                if (valid) {
-                    list.add(words[i]);
-                }
-
-            } else if (l2.contains(s)) {
-
-                boolean valid = true;
-
-                for (int j = 0; j < words[i].length(); j++) {
-                    String ch = String.valueOf(Character.toLowerCase(words[i].charAt(j)));
-
-                    if (!l2.contains(ch)) {
-                        valid = false;
-                        break;
-                    }
-                }
-
-                if (valid) {
-                    list.add(words[i]);
-                }
-
-            } else {
-
-                boolean valid = true;
-
-                for (int j = 0; j < words[i].length(); j++) {
-                    String ch = String.valueOf(Character.toLowerCase(words[i].charAt(j)));
-
-                    if (!l3.contains(ch)) {
-                        valid = false;
-                        break;
-                    }
-                }
-
-                if (valid) {
-                    list.add(words[i]);
+                if (l1.contains(ch)) {
+                    s += 1;
+                } else if (!l2.contains(ch)) {
+                    s += 2;
+                } else if (!l3.contains(ch)) {
+                    s += 3;
                 }
             }
+            list.add(s);
         }
-
-        return list.toArray(new String[0]);
+        String[] r = new String[words.length];
+        for(int i=0;i<list.size();i++){
+            boolean yes = true;
+            char a = list.get(i).charAt(0);
+            for(int j=0;j<list.get(i).length();j++){
+                if(a==list.get(i).charAt(j)){
+                    yes = true;
+                }
+                else {
+                    yes = false;
+                    break;
+                }
+            }
+            if(yes){
+                r[i]=words[i];
+            }
+        }
+        String[] result = Arrays.stream(r)
+        .filter(Objects::nonNull)
+        .toArray(String[]::new);
+       
+        return result;
     }
 }
