@@ -459,15 +459,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Brainteaser
 |  |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
