@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
