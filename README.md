@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0984-string-without-aaa-or-bbb) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
