@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0500-keyboard-row) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -566,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
