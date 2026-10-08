@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0984-string-without-aaa-or-bbb) |
+| [1021-remove-outermost-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1544-make-the-string-great) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
