@@ -2,19 +2,25 @@ import java.util.*;
 
 class Solution {
     public int sumCounts(List<Integer> nums) {
-        int n = nums.size();
-        int sum = 0;
-
-        for (int i = 0; i < n; i++) {
-            Set<Integer> seen = new HashSet<>();
-
-            for (int j = i; j < n; j++) {
-                seen.add(nums.get(j));
-
-                int distinct = seen.size();
-                sum += distinct * distinct;
-            }
-        }
+        int[] arr = nums.stream()
+                        .mapToInt(Integer::intValue)
+                        .toArray();
+        int sum=0;
+		
+		for(int i=0;i<arr.length;i++){
+		    
+		    for(int j=i+1;j<=arr.length;j++){
+		        HashSet<Integer> set = new HashSet<>();
+		        int[] sub = Arrays.copyOfRange(arr, i,j);
+		        for(int k:sub){
+		        set.add(k);
+		        }
+		    
+		        sum+=set.size()*set.size();
+		    }
+		    
+		    
+		}
 
         return sum;
     }
