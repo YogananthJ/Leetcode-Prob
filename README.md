@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1903-largest-odd-number-in-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1652-defuse-the-bomb) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0190-reverse-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -549,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Number Theory
 |  |
@@ -609,4 +616,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
