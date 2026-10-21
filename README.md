@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
