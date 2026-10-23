@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3827-count-monobit-integers) |
 ## Linked List
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
