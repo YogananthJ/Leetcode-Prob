@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2652-sum-multiples) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2278-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
