@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1254-number-of-closed-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Number Theory
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
