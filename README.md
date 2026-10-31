@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3663-find-the-least-frequent-digit) |
+| [3665-twisted-mirror-path-count](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3701-compute-alternating-sum) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
