@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1706-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2022-convert-1d-array-into-2d-array) |
