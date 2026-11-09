@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0500-keyboard-row) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0771-jewels-and-stones) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/YogananthJ/Leetcode-Prob/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1394-find-lucky-integer-in-an-array) |
