@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2278-percentage-of-letter-in-string) |
 | [2409-count-days-spent-together](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2409-count-days-spent-together) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2109-adding-spaces-to-a-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
