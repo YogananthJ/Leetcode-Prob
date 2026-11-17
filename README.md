@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/YogananthJ/Leetcode-Prob/tree/master/1652-defuse-the-bomb) |
+| [3364-minimum-positive-sum-subarray](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
