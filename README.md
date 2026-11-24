@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2506-count-pairs-of-similar-strings) |
+| [2678-number-of-senior-citizens](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
