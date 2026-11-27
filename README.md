@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3024-type-of-triangle) |
+| [3099-harshad-number](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-vowels-game-in-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/YogananthJ/Leetcode-Prob/tree/master/3232-find-if-digit-game-can-be-won) |
