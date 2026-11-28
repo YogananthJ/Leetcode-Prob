@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/YogananthJ/Leetcode-Prob/tree/master/2418-sort-the-people) |
